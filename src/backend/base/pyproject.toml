@@ -7,14 +7,9 @@ license = "MIT"
 keywords = ["nlp", "langchain", "openai", "gpt", "gui"]
 readme = "README.md"
 maintainers = [
-    { name = "Carlos Coelho", email = "carlos@langinfra.org" },
-    { name = "Cristhian Zanforlin", email = "cristhian.lousa@gmail.com" },
-    { name = "Gabriel Almeida", email = "gabriel@langinfra.org" },
-    { name = "Igor Carvalho", email = "igorr.ackerman@gmail.com" },
-    { name = "Lucas Eduoli", email = "lucaseduoli@gmail.com" },
-    { name = "Otávio Anovazzi", email = "otavio2204@gmail.com" },
-    { name = "Rodrigo Nader", email = "rodrigo@langinfra.org" },
-    { name = "Italo dos Anjos", email = "italojohnnydosanjos@gmail.com" },
+    { name = "KhulnaSoft, Ltd", email = "info@khulnasoft.com" },
+    { name = "Md Sulaiman", email = "dev.sulaiman@icloud.com" },
+    { name = "Abdullah Al-Mamun", email = "iconmamundentist@gmail.com" },
 ]
 
 dependencies = [
